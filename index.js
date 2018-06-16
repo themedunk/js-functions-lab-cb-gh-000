@@ -1,4 +1,3 @@
-const jsdom = require('mocha-jsdom')
 function happyHolidays(){
   return "Happy holidays!";
 }
